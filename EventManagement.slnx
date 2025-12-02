@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EventManagement.AppHost/EventManagement.AppHost.csproj" />
+  <Project Path="EventManagement.ServiceDefaults/EventManagement.ServiceDefaults.csproj" />
+  <Project Path="EventManagementApp/EventManagementApp.csproj" />
+</Solution>
